@@ -1,3 +1,2 @@
-# Collabrative and Demographic filtering based Movie recommendation system
+# Chess
 
-The project is a movie recommendation system
